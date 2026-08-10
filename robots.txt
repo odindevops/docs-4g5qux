@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-1798zy.indocuansite.online/sitemap.xml
